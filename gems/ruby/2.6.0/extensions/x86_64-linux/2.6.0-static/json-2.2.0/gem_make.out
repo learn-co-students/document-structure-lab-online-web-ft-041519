@@ -1,0 +1,13 @@
+current directory: /home/luis/Learn.co/document-structure-lab-online-web-ft-041519/gems/ruby/2.6.0/gems/json-2.2.0/ext/json
+/home/luis/.rbenv/versions/2.6.5/bin/ruby -I /home/luis/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20191111-13177-vgt7t4.rb extconf.rb
+creating Makefile
+
+current directory: /home/luis/Learn.co/document-structure-lab-online-web-ft-041519/gems/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/luis/Learn.co/document-structure-lab-online-web-ft-041519/gems/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/luis/Learn.co/document-structure-lab-online-web-ft-041519/gems/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
